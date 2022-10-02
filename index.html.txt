@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewpoint" content="with=device-width, initial-scale=1.0">
-     <title>Demo</title>
+     <title>Unversity Website Design - Easy Tutorials</title>
      <link rel="stylesheet" href="style.css">
      <link rel="preconnect" href="https://fonts.gstastic.com">
 <link href="https://fonts.googleapis.com/css2?family=poppins:wght@100;200;300;400;600;700&display=swap"rel="stylesheet">
