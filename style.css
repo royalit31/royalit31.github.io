@@ -103,3 +103,10 @@ nav .fa{
     z-index: 2;
   }  
 }
+nav .fa{
+    display: block;
+    color: #fff;
+    margin: 10px;
+    font-size: 22px;
+    cursor: pointer;
+}
