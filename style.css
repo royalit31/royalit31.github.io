@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    backround-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/me.jpg.png);
+    backround-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Royalitube.png);
     background-position:center;
     background-size: cover;
     position:relative;
