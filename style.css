@@ -164,7 +164,14 @@ h3{
     }
 }
 
+/*------- campus -------*/
 
+.campus{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
 
 
 
